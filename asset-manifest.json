@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Master-Gantt-Timeline/static/css/main.5021d5e3.css",
+    "main.js": "/Master-Gantt-Timeline/static/js/main.de4afe03.js",
+    "static/js/453.cd2be014.chunk.js": "/Master-Gantt-Timeline/static/js/453.cd2be014.chunk.js",
+    "index.html": "/Master-Gantt-Timeline/index.html",
+    "main.5021d5e3.css.map": "/Master-Gantt-Timeline/static/css/main.5021d5e3.css.map",
+    "main.de4afe03.js.map": "/Master-Gantt-Timeline/static/js/main.de4afe03.js.map",
+    "453.cd2be014.chunk.js.map": "/Master-Gantt-Timeline/static/js/453.cd2be014.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5021d5e3.css",
+    "static/js/main.de4afe03.js"
+  ]
+}
